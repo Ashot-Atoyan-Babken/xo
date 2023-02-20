@@ -1,11 +1,11 @@
 .zero {
-   background: url('/img/371-3713738_select-the-sign-transparent-letter-o-circle.png');
+   background: url('../img/371-3713738_select-the-sign-transparent-letter-o-circle.png');
    background-repeat: no-repeat;
    background-size: cover;
 }
 
 .player {
-   background: url('/img/x-png-18.png');
+   background: url('../img/x-png-18.png');
    background-repeat: no-repeat;
    background-size: cover;
 }
